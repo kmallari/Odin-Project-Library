@@ -24,13 +24,13 @@ const PageHeader = ({ handleShowModal }) => {
           >
             The Odin Project
           </a>
-          , in which I need to make a "library" of books.
+          , in which I need to make a "library" of books. The project uses Local Storage, which saves you latest list of books. When you reload the page, you pick off where you left off.
         </p>
         <p className="text-gray-600">
           You can view the source code for the project on{" "}
           <a
             className="text-blue-400 underline hover:text-blue-500 transition-all"
-            href=""
+            href="https://github.com/kmallari/Odin-Project-Library"
           >
             Github.
           </a>
